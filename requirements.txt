@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+joblib
+sqlalchemy
+psycopg2-binary
+ctrader-open-api
+twisted
